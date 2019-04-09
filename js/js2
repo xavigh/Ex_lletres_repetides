@@ -1,0 +1,15 @@
+//exercici lletres repetides
+//Fase 2
+
+function nameLetters(){
+    var name = ['A','L','E','J','3','A','N','D','R','O'];
+    var nameStr = name.join('');
+        console.log('Partim del nom '+ nameStr);
+    var i = 0;
+    var txt;
+
+    switch(i < name.length){
+
+      case 1:
+    }
+}
