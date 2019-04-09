@@ -10,6 +10,6 @@ function nameLetters(){
 
     switch(i < name.length){
 
-      case 1:
+
     }
 }
