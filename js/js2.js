@@ -13,7 +13,6 @@ function nameLetters(){
 
         // first we check if it is a digit or a letter
         if( isNaN(name[i]) ){
-
             //if yes it is a number then check if it is a vocal
               var str="aeiou_AEIOU";
 
